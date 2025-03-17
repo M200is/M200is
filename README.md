@@ -1,5 +1,13 @@
-## Hi there 👋
+## M200is / 장하윤
+해킹좋아하는 사람입니다.
 
+Ka__G7로도 활동합니다
+
+## Profile
+
+세종대학교 IT계열 25학번
+
+SSG
 <!--
 **M200is/M200is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
